@@ -2,7 +2,7 @@
 
 [![Email Badge](https://img.shields.io/badge/arturo.quiroga@outlook.com-blue?style=for-the-badge&logo=gmail)](mailto:arturo.quiroga@outlook.com) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arturocasasq/)
 
-Dynamic Frontend Engineer with over ten years of experience, dedicated to crafting innovative web solutions that enhance user interaction and drive significant business impact.
+Frontend Engineer with over ten years of experience, dedicated to crafting innovative web solutions that enhance user interaction and drive significant business impact.
 I like web technologies innovations, astronomy, and spend time with my family.
 I'm focused on continuos learning about new releases of web technologies, Artificial Intelligence, and improvement of my soft skills such as: communication, emotional Intelligence, patient, etc.
 
