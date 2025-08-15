@@ -1,4 +1,4 @@
-#Arturo Casas, Sr Frontend Engineer 👋
+# Arturo Casas, Sr Frontend Engineer 👋
 
 [![Email Badge](https://img.shields.io/badge/arturo.quiroga@outlook.com-blue?style=for-the-badge&logo=gmail)](mailto:arturo.quiroga@outlook.com) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arturocasasq/)
 
