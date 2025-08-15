@@ -7,11 +7,11 @@ My focus is on developing innovative and scalable solutions, optimizing performa
 
 ## Featured Projects 🚀
 
- 1. **[Duummy Bank]([Project URL](https://artikunazo-dummybank.netlify.app/#/))**: Bank dummy application offers products such as: Car Loan, Mortgages and Credit Card. It was developed based on my banking experience. Built with Angular v20, TypeScript, Tailwind and PrimeNG.
+ 1. **Dummy Bank ([Project URL](https://artikunazo-dummybank.netlify.app/#/))**: Bank dummy application offers products such as: Car Loan, Mortgages and Credit Card. It was developed based on my banking experience. Built with Angular v20, TypeScript, Tailwind and PrimeNG.
 
- 2. **[Dashboard Kanban]([Project URL](https://github.com/Artikunazo/dashboard-kanban-v2))**: A fullstack application for Kanban dashboard to managment tasks with Kanban metodology. Using Springboot, Angular, MySQL, Java and Docker.
+ 2. **Dashboard Kanban ([Project URL](https://github.com/Artikunazo/dashboard-kanban-v2))**: A fullstack application for Kanban dashboard to managment tasks with Kanban metodology. Using Springboot, Angular, MySQL, Java and Docker.
 
- 3. **[URL Shorter]([Project URL](https://github.com/Artikunazo/shorter-url))**: Application for convert a URL more shorter based on ID. The ID of URL shorted can be validated and show original URL. Tools used: Springboot, Angular, MySQL, Java and Docker.
+ 3. **URL Shorter ([Project URL](https://github.com/Artikunazo/shorter-url))**: Application for convert a URL more shorter based on ID. The ID of URL shorted can be validated and show original URL. Tools used: Springboot, Angular, MySQL, Java and Docker.
 
 ## Skills 🛠️
 
